@@ -1,0 +1,20 @@
+{
+  "name": "Xps 10 OTG",
+  "short_name": "Xps 10 OTG",
+  "description": "Professional 16-channel mixer with effects and EQ for XPS-10",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#070709",
+  "theme_color": "#007aff",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "./icons/icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["music", "audio", "utilities"]
+}
+
